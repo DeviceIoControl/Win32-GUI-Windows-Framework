@@ -16,8 +16,8 @@ Basic C++ Windows GUI Framework
 
 ## Upcoming features
 
-# Drag and Drop for interactive in-window objects...
-# Persistant storage for GUI Drag and Drop layout (You can save the layout of a GUI created using the Drag and Drop).
-# Create textboxes for User Input
-# Add Keyboard event support
-# Add Image loading support (can be done easily, but some code needs to be refactored before doing so...)
+ Drag and Drop for interactive in-window objects...\n
+ Persistant storage for GUI Drag and Drop layout (You can save the layout of a GUI created using the Drag and Drop).
+ Create textboxes for User Input
+ Add Keyboard event support
+ Add Image loading support (can be done easily, but some code needs to be refactored before doing so...)
