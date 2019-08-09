@@ -21,9 +21,11 @@ Basic C++ Windows GUI Framework
 
 ## Upcoming features
 
-- Drag and Drop for interactive in-window objects...
+- Drag and Drop for interactive in-window objects.
 - Persistant storage for GUI Drag and Drop layout (You can save the layout of a GUI created using the Drag and Drop feature).
-- Add Keyboard event support
+- Add Keyboard event support.
+- Add support for Menus (including drop-down menus).
+- Add support for coping data to the clipboard.
 - Support for custom Window Themes.
 - Support for high performance font rendering (Direct2D).
 - Video player & Audio player class will support for playing media directly from memory.
