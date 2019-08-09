@@ -30,7 +30,7 @@ Basic C++ Windows GUI Framework
 - Support for high performance font rendering (Direct2D).
 - Video player & Audio player class will support for playing media directly from memory.
 
-## TODO:
+## TODO List:
 
 - Remove C-style casts.
 - Refactor the NativeWindow class for easier creation of varied type of Windows and improved handling of events.
