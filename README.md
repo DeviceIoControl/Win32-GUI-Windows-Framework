@@ -26,7 +26,7 @@ Basic C++ Windows GUI Framework
 - Add Keyboard event support
 - Support for custom Window Themes.
 - Support for high performance font rendering (Direct2D).
-- Video player & Audio player class will support for playing media from memory.
+- Video player & Audio player class will support for playing media directly from memory.
 
 ## TODO:
 
