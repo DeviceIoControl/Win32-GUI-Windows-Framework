@@ -28,7 +28,7 @@ Basic C++ Windows GUI Framework
 - Add support for coping data to the clipboard.
 - Support for custom Window Themes.
 - Support for high performance font rendering (Direct2D).
-- Video player & Audio player class will support for playing media directly from memory.
+- Video player & Audio player class will support playing media directly from memory.
 
 ## TODO List:
 
