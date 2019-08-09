@@ -1,6 +1,8 @@
 # Win32-GUI-Windows-Framework
 Basic C++ Windows GUI Framework
 
+## DISCLAIMER: This is unfinished and broken code. (It will be refactored soon)
+
 ### Relatively small GUI framework for Windows created by ME!
 
 ## Supported Features
@@ -22,4 +24,3 @@ Basic C++ Windows GUI Framework
 - Drag and Drop for interactive in-window objects...
 - Persistant storage for GUI Drag and Drop layout (You can save the layout of a GUI created using the Drag and Drop feature).
 - Add Keyboard event support
-
