@@ -1,7 +1,7 @@
 # Win32-GUI-Windows-Framework
 Basic C++ Windows GUI Framework
 
-## DISCLAIMER: This is unfinished code. (It will be refactored soon)
+## NOTE: No code is available yet. The code is too broken and messy to put into repository right now. 
 
 ### Relatively small GUI framework for Windows created by ME!
 
