@@ -36,6 +36,6 @@ Basic C++ Windows GUI Framework
 - Refactor the NativeWindow class for easier creation of varied type of Windows and improved handling of events.
 - Refactor the Window class for better support with Themeing.
 - Add a "Service" class for easier handling of API's (GDI+, ATL, COM, MMF, Direct2D, CommCtrls & DWM)
-- Refactor the Video Player & Audio player class to use Microsoft Media Foundation (MMF) API instead of Windows Media Player COM / ActiveX plugin.
+- Refactor the Video Player & Audio player class to use Microsoft Media Foundation (MMF) API instead of Windows Media Player COM / ActiveX objects.
 - Migrate the event system from EventProxy class into the NativeWindow class. (effectively destroying the EventProxy class)
 - Refactor the event handling system.
