@@ -27,7 +27,7 @@ Basic C++ Windows GUI Framework
 - Add support for Menus (including drop-down menus).
 - Add support for coping data to the clipboard.
 - Support for custom Window Themes.
-- Support for high performance font rendering (DirectWrite).
+- Support for high performance font rendering (Direct2D).
 - Support for high performance 2D Graphics output (Direct2D). 
 - Video player & Audio player class will support playing media directly from memory.
 
