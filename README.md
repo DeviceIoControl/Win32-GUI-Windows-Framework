@@ -33,9 +33,9 @@ Basic C++ Windows GUI Framework
 
 ## TODO List (before uploading the code to the repository):
 
-- [x] Remove C-style casts.
+- [x] **Remove C-style casts.**
 - [ ] Refactor the NativeWindow class for easier creation of varied type of Windows and improved handling of events.
-- [x] Add a "Service" class for easier handling of API's. 
+- [x] **Add a "Service" class for easier handling of API's.** 
 - [ ] Refactor the Video Player & Audio player class to use Microsoft Media Foundation (MMF) API instead of Windows Media Player COM / ActiveX objects.
 - [ ] Migrate the event system from EventProxy class into the NativeWindow class. (effectively destroying the EventProxy class)
 - [ ] Refactor the event handling system.
