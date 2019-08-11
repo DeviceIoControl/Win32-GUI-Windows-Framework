@@ -1,7 +1,7 @@
 # Win32-GUI-Windows-Framework
 Basic C++ Windows GUI Framework
 
-**NOTE: _No code is available yet._ The code is too buggy and messy to put into repository right now.** 
+**NOTE: _No code is available yet._ The code is too buggy and messy to put into the repository right now.** 
 
 ### Relatively small GUI framework for Windows created by ME!
 
