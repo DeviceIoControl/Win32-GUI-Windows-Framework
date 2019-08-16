@@ -39,4 +39,4 @@ Basic C++ Windows GUI Framework
 - [ ] Refactor the Video Player & Audio player class to use Microsoft Media Foundation (MMF) API instead of Windows Media Player COM / ActiveX objects.
 - [ ] Create an efficient Window class registering system.
 - [x] **Migrate the event system from EventProxy class into the NativeWindow class. (destroy the EventProxy class)**
-- [x] Refactor the event handling system.
+- [x] **Refactor the event handling system.**
