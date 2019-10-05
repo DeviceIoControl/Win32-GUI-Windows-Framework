@@ -25,7 +25,7 @@ Basic C++ Windows GUI Framework
 - Persistant storage for GUI Drag and Drop layout (You can save the layout of a GUI created using the Drag and Drop feature).
 - Add Keyboard event support.
 - Add support for Menus (including drop-down menus).
-- Add support for coping data to the clipboard.
+- Add support for copying data to the clipboard.
 - Support for custom Window Themes.
 - Support for high performance font rendering (Direct2D).
 - Support for high performance 2D Graphics output (Direct2D). 
